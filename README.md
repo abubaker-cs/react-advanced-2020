@@ -1,4 +1,4 @@
-## Corresponding Projects
+## Projects for understanding React Hacks and Advanced Topics
 
 #### useState
 
